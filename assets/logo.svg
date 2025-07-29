@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="90" fill="#4F46E5" />
+  
+  <!-- Outer Ring -->
+  <circle cx="100" cy="100" r="85" fill="none" stroke="#818CF8" stroke-width="3" stroke-dasharray="8 4" />
+  
+  <!-- Sound Waves -->
+  <path d="M60 100 Q80 60 100 100 Q120 140 140 100" stroke="white" stroke-width="8" fill="none" stroke-linecap="round" />
+  <path d="M70 100 Q85 70 100 100 Q115 130 130 100" stroke="white" stroke-width="5" fill="none" stroke-linecap="round" />
+  <path d="M80 100 Q90 80 100 100 Q110 120 120 100" stroke="white" stroke-width="3" fill="none" stroke-linecap="round" />
+  
+  <!-- Microphone -->
+  <rect x="90" y="70" width="20" height="40" rx="10" fill="white" />
+  <path d="M75 100 L75 110 Q75 130 100 130 Q125 130 125 110 L125 100" stroke="white" stroke-width="6" fill="none" stroke-linecap="round" />
+  <line x1="100" y1="130" x2="100" y2="150" stroke="white" stroke-width="6" stroke-linecap="round" />
+  <line x1="85" y1="150" x2="115" y2="150" stroke="white" stroke-width="6" stroke-linecap="round" />
+</svg>
